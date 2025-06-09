@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+ <p align="center"> 
+  Visitor counter<br>
+  <img src="https://profile-counter.glitch.me/Konstiu/count.svg" />
+</p>
 <!--
 **Konstiu/Konstiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
