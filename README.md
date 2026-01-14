@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/konstantin-unterweger/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/konstantin-unterweger/" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=konstiu&show_icons=true&locale=en&layout=compact" alt="konstiu" /></p>
+<!--p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=konstiu&show_icons=true&locale=en&layout=compact" alt="konstiu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=konstiu&show_icons=true&locale=en" alt="konstiu" /></p>
 
