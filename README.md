@@ -1,6 +1,6 @@
 <h1 align="center">Konstantin Unterweger</h1>
 <p align="center">
-MSc Computer Science · TU Wien
+Computer Science · TU Wien
 </p>
 
 ---
