@@ -50,6 +50,4 @@ analyzing long-term changes in real-world software projects.
 - LinkedIn: https://www.linkedin.com/in/konstantin-unterweger/  
 - Email: konstantin@unterweger.tech  
 
-<!--<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=konstiu&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=pixel)
